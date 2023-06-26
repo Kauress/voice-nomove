@@ -1,0 +1,43 @@
+body{
+  /*background: rgb(61,152,135);
+background: linear-gradient(90deg, rgba(61,152,135,1) 0%, rgba(114,241,112,1) 35%, rgba(51,131,128,1) 100%);*/
+  background-image: url('/public/b1.jpeg'); 
+background-size: cover;
+}
+.form {
+  width: 90%;
+  max-width: 300px;
+  margin: auto;
+}
+
+.form > input {
+  text-align: center;
+  display: block;
+  width: 90%;
+  padding: 5%;
+  border: transparent;
+  border-radius: 10px;
+  background: cornsilk;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.btn {
+  font-size: 1.2rem;
+  color: white;
+  cursor: pointer;
+}
+
+.form > #message {
+  text-align: center;
+}
+
+#main{
+ background: rgb(61,152,135);
+background: linear-gradient(90deg, rgba(61,152,135,1) 0%, rgba(114,241,112,1) 35%, rgba(51,131,128,1) 100%);*/
+  z-index: 1;
+  width: 35%;
+}
+li{
+  font-size:20px;
+}
